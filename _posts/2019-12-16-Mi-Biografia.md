@@ -11,7 +11,7 @@ Mi Nombre es Gregory Anthony Estacio; soy de la ciudad de Guayaquil. Naci el dia
 
 Estudie por dos años (8vo & 9no) en el Colegio. Ismales Perez Pazmiño. Luego por motivos de seguridad me traspasaron al Colegio. Provincia de bolivar, institucion donde me gradue de Bachiller Tecnico en Contabilidad
 
-![_config.yml]({{ site.baseurl }}/images/colegio.jpg)
+![_config.yml]({{ site.baseurl }}/images/Colegio.jpg)
 
 En la actualidad estoy en mi primer semestre en la mencionada Universidad de Guayaquil y mi carrera es "Ingenieria en Software". Espero no se de ningun inconveniente y terminar mi carrera de forma normal.
 
