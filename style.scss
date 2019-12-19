@@ -194,7 +194,7 @@ img {
   margin: 0;
   color: $white;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $CourierNew;
   font-weight: 400;
   font-size: 28px;
   letter-spacing: 1px;
@@ -232,7 +232,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $darkerGray;
     }
   }
 }
