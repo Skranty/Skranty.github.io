@@ -3,8 +3,6 @@ layout: post
 title: Proyecto Introduccion Ingenieria en Software.
 ---
 
-## Introduccion Ingenieria en Software 
-
 ![_config.yml]({{ site.baseurl }}/images/12.png)
 
 ### Temas Impartidos en horario de clase: 
