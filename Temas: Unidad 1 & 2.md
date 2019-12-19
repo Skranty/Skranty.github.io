@@ -30,7 +30,10 @@ Ingeniería de Software trata del establecimiento de los principios y métodos d
 La aplicación de un enfoque sistemático, disciplinado y cuantificable al desarrollo, operación (funcionamiento) y mantenimiento del software; es decir, la aplicación de ingeniería al software.
 
 La ingeniería de software es una especialidad que consiste en sistemas, instrumentos y técnicas que se emplean en el desarrollo de los programas informáticos. Es la rama de la ingeniería que estudia todo lo relacionado con la informática o sistemas de computación, con una orientación metódica, ordenada y cuantificable al incremento, ejecución y conservación del software
-Objetivos:
+
+![_config.yml]({{ site.baseurl }}/images/13.jpg)
+
+### Objetivos de la Ingenieria en Software:
 
 #### Diseñar:
 
@@ -83,11 +86,11 @@ En esta asignatura se pretende dotar al alumno del conocimiento de los procesos 
 
 Antes de matricular la asignatura, verifique los posibles requisitos que pueda tener dentro de su plan. Esta información la encontrará en la pestaña “Plan de estudios” del plan correspondiente.
 
-![_config.yml]({{ site.baseurl }}/images/13.jpg)
-
 ### Competencias generales IG:
 
 Conocer los principales procesos implicados en la realización de un proyecto software. Identificar y adoptar los procesos marcados por normas estándares en proyectos software. Adaptar correctamente cuando sea preciso los procesos software a las necesidades de un proyecto. Relacionar distintos procesos identificando la necesidad y el objetivo de cada uno de ellos. Competencias específicas Conocimiento de los procesos en ingeniería del software. Asimilación y capacidad de aplicación de la norma ISO12207. Definición del ciclo de vida aplicable a un proyecto. Asimilación y capacidad de aplicación de CMMI. Conocimiento de las metodologías existentes en ingeniería del software.
+
+![_config.yml]({{ site.baseurl }}/images/8.gif)
 
 ### Metodología en la Ingenieria de Software:
 
