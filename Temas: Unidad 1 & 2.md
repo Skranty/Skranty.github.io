@@ -3,7 +3,11 @@ layout: post
 title: Proyecto Introduccion Ingenieria en Software.
 ---
 
-## Introduccion Ingenieria en Software; Temas Impartidos en horario de clase: 
+## Introduccion Ingenieria en Software 
+
+![_config.yml]({{ site.baseurl }}/images/12.png)
+
+### Temas Impartidos en horario de clase: 
 
 ### Ingenieria en Software:
 
@@ -78,6 +82,8 @@ La Ingeniería del Software es una disciplina dentro de la rama informática en 
 En esta asignatura se pretende dotar al alumno del conocimiento de los procesos implicados en la ingeniería del software así como de los principales estándares existentes en el mercado al respecto. Asimismo se abordan las metodologías existentes en relación con dichos procesos.
 
 Antes de matricular la asignatura, verifique los posibles requisitos que pueda tener dentro de su plan. Esta información la encontrará en la pestaña “Plan de estudios” del plan correspondiente.
+
+![_config.yml]({{ site.baseurl }}/images/13.jpg)
 
 ### Competencias generales IG:
 
