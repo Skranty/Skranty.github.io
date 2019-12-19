@@ -61,7 +61,7 @@ Equipos de trabajo de desarrollo software.
 
 La realización de pruebas que verifiquen el correcto funcionamiento de los programas y que se ajustan a los requisitos de análisis y diseño.
 
-#### Diseñar, construir y administrar bases de datos.
+#### Diseñar, construir y administrar bases de datos:
 
 #### Dirigir:
 
@@ -84,7 +84,7 @@ En esta asignatura se pretende dotar al alumno del conocimiento de los procesos 
 
 Antes de matricular la asignatura, verifique los posibles requisitos que pueda tener dentro de su plan. Esta información la encontrará en la pestaña “Plan de estudios” del plan correspondiente.
 
-### Competencias generales IG:
+### Competencias generales Ingenieria en Software:
 
 Conocer los principales procesos implicados en la realización de un proyecto software. Identificar y adoptar los procesos marcados por normas estándares en proyectos software. Adaptar correctamente cuando sea preciso los procesos software a las necesidades de un proyecto. Relacionar distintos procesos identificando la necesidad y el objetivo de cada uno de ellos. Competencias específicas Conocimiento de los procesos en ingeniería del software. Asimilación y capacidad de aplicación de la norma ISO12207. Definición del ciclo de vida aplicable a un proyecto. Asimilación y capacidad de aplicación de CMMI. Conocimiento de las metodologías existentes en ingeniería del software.
 
@@ -125,6 +125,8 @@ Un proceso de software mejora los esfuerzos de mantenimiento y soporte:
 •	Necesitamos un proceso de software cuya funcionalidad esté probada en la práctica, y personalizado para que cumpla con nuestras necesidades específicas.
 
 ### Ciclo de Vida de un Software:
+
+![_config.yml]({{ site.baseurl }}/images/64.jpg)
 
 ESPECIFICACIONES:
 Formalizamos los requerimientos; el documento obtenido en la etapa anterior se tomará como punto de partida para esta etapa.
