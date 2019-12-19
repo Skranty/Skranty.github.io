@@ -12,3 +12,7 @@ title: Contactame Por Medio de Mis Redes Sociales
 [![alt text](https://1.bp.blogspot.com/-Q36YmMj7i1E/XfrJyqDhrZI/AAAAAAAAPE8/VXW563MLdAAIefrlrRjDNzK8SmZq9sToQCNcBGAsYHQ/s1600/5jh.png "MIAU MIAU MOTHERFUCKER")](https://github.com/Skranty)
 
 [![alt text](https://1.bp.blogspot.com/-6ynKftUqZ9A/XfsKaMsArAI/AAAAAAAAPGo/-3nnHWvXqlkYYlgESA12OBbCd_NimsMuACNcBGAsYHQ/s1600/29.png "Youtube")](https://www.youtube.com/channel/UCOC-m6bL-UTdwaXzHGXeuLA?view_as=subscriber)
+
+Mi reaccion al terminar:
+
+![_config.yml]({{ site.baseurl }}/images/5.gif)
