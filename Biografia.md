@@ -3,19 +3,23 @@ layout: post
 title: Biografia
 ---
 
-## Mis Datos Personales:
+### Mis Datos Personales:
 
-Mi Nombre es Gregory Anthony Estacio; soy de la ciudad de Guayaquil. Naci el dia 27 de Junio del 2001 a las 3am. No cuento con experiencia laboral pero deseo algun dia poder trabajar =D.
-
+Hola! Bienvenidos; Mi nombre es Gregory Anthony Estacio Anilema  
 ![_config.yml]({{ site.baseurl }}/images/anthon.jpg)
 
-Estudie por dos años (8vo & 9no) en el Colegio. Ismales Perez Pazmiño. Luego por motivos de seguridad me traspasaron al Colegio. Provincia de bolivar, institucion donde me gradue de Bachiller Tecnico en Contabilidad
+Empeze mis estudies en la Escuela Dr.Jose Miguel Garcia Moreno, luego al entrar en preparatoria ingrese al Colegio Ismael Perez Pazmiño durante dos años, por motivos de seguridad fui trasladado a una entidad educativa mas cerca de mi hogar. Termine mi Bachillerato en el Colegio Provincia de Bolivar y me gradue en la carrera de Contabilidad Administrativa.
 
 ![_config.yml]({{ site.baseurl }}/images/Colegio.jpg)
 
-En la actualidad estoy en mi primer semestre en la mencionada Universidad de Guayaquil y mi carrera es "Ingenieria en Software". Espero no se de ningun inconveniente y terminar mi carrera de forma normal.
+En la actualidad me estoy formando academicamente en la Universidad Estatal de Guayaquil en la carrera de Ingenieria en Software.
 
-## Mis Hobbies:
+### Hobbies:
 
-Uno de mis principales atracciones es la edicion de video; trabajo con el programa Sony Vegas Pro 13 desde el año 2015. 
-Tambien lo es la fotografia aunque en este tema aun no he profundizado mucho pero espero hacerlo luego de terminar mi carrera en la Universidad de Guayaquil.
+Primeramente quiero mencionar en lo que en mi perspectiva siento que tengo mas ventajas, me refiero a la edicion de video, llevo relizando edit's, DubstepLyrics, mini proyectos publicitarios desde el año 2015. Yo trabajo con el programa Sony Vegas aunque me encantaria tener un avanze con otras aplicacion como por ejemplo Adobe After Effects, Adobe Premiere Pro, entre otras. 
+
+En segundo lugar esta la fotografia, no tengo aun el toque, ni los materiales pero espero algun dia meterme profundamente a todo lo relacionado con este tema.
+
+Admirar el arte es otra de mis actividades diarias, por medio de la web observo varias pinturas, dibujos a computadora, imagenes con algun concepto emocional. Me agradan un monton como la gente trata de expresar todo lo que tenga dentro de su ser como sus mas profundos miedos, amores, angustias cantidad de emociones descriptibles en algun concepto del arte.
+
+Eso es todo hasta hoy. Hasta la Proxima!! WEOOOH PRRRRRRRRRRM TURU TURU TURU
