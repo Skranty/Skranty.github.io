@@ -170,6 +170,7 @@ Pressman caracteriza un proceso de desarrollo de software como se muestra en la 
 •	Las actividades de protección, tales como garantía de calidad del software, gestión de configuración del software y medición, abarcan el modelo del proceso. Las actividades de protección son independientes de cualquier actividad del marco de trabajo y aparecen durante todo el proceso.
 
 ### Metodologías ágiles en el desarrollo de software:
+![_config.yml]({{ site.baseurl }}/images/15.jpg)
 Históricamente, el desarrollo de software ha sido una tarea tediosa y compleja, donde muchas veces la rentabilidad de la misma estaba muy por debajo de su coste. Eran épocas de desarrollos interminables, de infinidad de líneas de código donde cualquier cambio en el proyecto inicial suponía un auténtico quebradero de cabeza para el desarrollador. La poca (o nula) tolerancia y/o previsión a cambios, los métodos arcaicos de programación, etc. no contribuían a generar un ecosistema adecuado para el correcto desarrollo de software.
 Con el paso de los años, fueron surgiendo nuevos lenguajes de programación (en teoría más sencillos…), entornos más amigables, frameworks que facilitaban muchas tareas, conceptos que las empresas dedicadas al desarrollo de software acogieron rápidamente para mejorar la calidad y los plazos de entrega de sus proyectos. Pero, ¿es esto suficiente en la actualidad?
 Obviamente, ¡NO!
