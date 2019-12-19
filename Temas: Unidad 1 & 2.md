@@ -61,7 +61,7 @@ Equipos de trabajo de desarrollo software.
 
 La realización de pruebas que verifiquen el correcto funcionamiento de los programas y que se ajustan a los requisitos de análisis y diseño.
 
-#### Diseñar, construir y administrar bases de datos:
+## Diseñar, construir y administrar bases de datos:
 
 #### Dirigir:
 
