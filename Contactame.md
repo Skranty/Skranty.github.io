@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Contactame Por Medio de Mis Redes Sociales
+title: Da Click uwu y sigueme.
 ---
 
 
