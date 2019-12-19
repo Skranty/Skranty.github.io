@@ -16,11 +16,11 @@ En la actualidad me estoy formando academicamente en la Universidad Estatal de G
 
 ### Hobbies:
 
-Primeramente quiero mencionar en lo que en mi perspectiva siento que tengo mas ventajas, me refiero a la edicion de video, llevo relizando edit's, DubstepLyrics, mini proyectos publicitarios desde el año 2015. Yo trabajo con el programa Sony Vegas aunque me encantaria tener un avanze mas profesional con otras aplicaciones como por ejemplo Adobe After Effects, Adobe Premiere Pro, entre otras. 
+Edicion de video: Llevo relizando edit's, DubstepLyrics, mini proyectos publicitarios desde el año 2015. Yo trabajo con el programa Sony Vegas aunque me encantaria tener un avanze mas profesional con otras aplicaciones como por ejemplo Adobe After Effects, Adobe Premiere Pro, entre otras. 
 
-En segundo lugar esta la fotografia, no tengo aun el toque, ni los materiales pero espero algun dia meterme profundamente a todo lo relacionado con este tema.
+La fotografia: Aun no tengo aun el toque, ni los materiales pero espero algun dia meterme profundamente a todo lo relacionado con este tema.
 
-Admirar el arte es otra de mis actividades diarias, por medio de la web observo varias pinturas, dibujos a computadora, imagenes con algun concepto emocional. Me agradan un monton como la gente trata de expresar todo lo que tenga dentro de su ser como sus mas profundos miedos, amores, angustias cantidad de emociones descriptibles en algun concepto del arte.
+Admirar el arte en paginas web: Una de mis actividades diarias, por medio de la web observo varias pinturas, dibujos a computadora, imagenes con algun concepto emocional. Me agradan un monton como la gente trata de expresar todo lo que tenga dentro de su ser como sus mas profundos miedos, amores, angustias cantidad de emociones descriptibles en algun concepto del arte.
 
 Ultimamente tambien empeze a tocar la guitarra, aprendi muy pocos acordes. Deje de hacerlo por motivos de tiempo pero eso no me quita las ganas de seguir aprendiendo. Espero pronto retomar esta actividad.
 
