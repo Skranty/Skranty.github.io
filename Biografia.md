@@ -6,7 +6,8 @@ title: Biografia
 ### Mis Datos Personales:
 
 Hola! Bienvenidos; Mi nombre es Gregory Anthony Estacio Anilema  
-![_config.yml]({{ site.baseurl }}/images/anthon.jpg)
+
+![_config.yml]({{ site.baseurl }}/images/14.jpg)
 
 Empeze mis estudios en la Escuela Dr.Jose Miguel Garcia Moreno, luego al entrar en preparatoria ingrese al Colegio Ismael Perez Pazmiño durante dos años, por motivos de seguridad fui trasladado a una entidad educativa mas cerca de mi hogar. Termine mi Bachillerato en el Colegio Provincia de Bolivar y me gradue en la carrera de Contabilidad Administrativa.
 
