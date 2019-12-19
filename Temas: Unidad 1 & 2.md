@@ -146,7 +146,7 @@ En la mayoría de los proyectos se considera esta etapa como Mantenimiento y ev
 
 ### El Proceso de desarrollo de Software:
 
-![_config.yml]({{ site.baseurl }}/images/65.jpg)
+![_config.yml]({{ site.baseurl }}/images/66.jpg)
 
 Un proceso de desarrollo de software tiene como propósito la producción eficaz y eficiente de un producto software que reúna los requisitos del cliente. Dicho proceso, en términos globales se muestra en la Figura 2 . Este proceso es intensamente intelectual, afectado por la creatividad y juicio de las personas involucradas. Aunque un proyecto de desarrollo de software es equiparable en muchos aspectos a cualquier otro proyecto de ingeniería, en el desarrollo de software hay una serie de desafíos adicionales, relativos esencialmente a la naturaleza del producto obtenido. A continuación se explican algunas particularidades asociadas al desarrollo de software y que influyen en su proceso de construcción.
 
