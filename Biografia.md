@@ -16,7 +16,7 @@ En la actualidad me estoy formando academicamente en la Universidad Estatal de G
 
 ### Hobbies:
 
-Primeramente quiero mencionar en lo que en mi perspectiva siento que tengo mas ventajas, me refiero a la edicion de video, llevo relizando edit's, DubstepLyrics, mini proyectos publicitarios desde el año 2015. Yo trabajo con el programa Sony Vegas aunque me encantaria tener un avanze con otras aplicacion como por ejemplo Adobe After Effects, Adobe Premiere Pro, entre otras. 
+Primeramente quiero mencionar en lo que en mi perspectiva siento que tengo mas ventajas, me refiero a la edicion de video, llevo relizando edit's, DubstepLyrics, mini proyectos publicitarios desde el año 2015. Yo trabajo con el programa Sony Vegas aunque me encantaria tener un avanze mas profesional con otras aplicaciones como por ejemplo Adobe After Effects, Adobe Premiere Pro, entre otras. 
 
 En segundo lugar esta la fotografia, no tengo aun el toque, ni los materiales pero espero algun dia meterme profundamente a todo lo relacionado con este tema.
 
