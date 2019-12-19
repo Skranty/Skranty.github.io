@@ -25,3 +25,5 @@ Admirar el arte en paginas web: Una de mis actividades diarias, por medio de la 
 Ultimamente tambien empeze a tocar la guitarra, aprendi muy pocos acordes. Deje de hacerlo por motivos de tiempo pero eso no me quita las ganas de seguir aprendiendo. Espero pronto retomar esta actividad.
 
 Eso es todo hasta hoy. Hasta la Proxima!! WEOOOH PRRRRRRRRRRM TURU TURU TURU
+
+![_config.yml]({{ site.baseurl }}/images/giphy.gif)
