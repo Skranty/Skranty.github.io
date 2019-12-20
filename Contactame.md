@@ -13,6 +13,6 @@ title: Da Click uwu y sigueme.
 
 [![alt text](https://1.bp.blogspot.com/-6ynKftUqZ9A/XfsKaMsArAI/AAAAAAAAPGo/-3nnHWvXqlkYYlgESA12OBbCd_NimsMuACNcBGAsYHQ/s1600/29.png "Youtube")](https://www.youtube.com/channel/UCOC-m6bL-UTdwaXzHGXeuLA?view_as=subscriber)
 
-Mi reaccion al terminar:
+Mi reaccion al terminar
 
 ![_config.yml]({{ site.baseurl }}/images/5.gif)
